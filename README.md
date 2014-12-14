@@ -1,4 +1,7 @@
 attackvector.github.io
 ======================
 
-staging area
+staging area for hacks
+and the like of them &
+all of their ilk and
+so forth and so on.
